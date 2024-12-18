@@ -1,9 +1,10 @@
 {
-	"id": "0009-0001-3362-6494",
-	"authors": ["Metaork2"],
-	"origin": "https://github.com/Metaork2/AMPTemplates.git",
-	"url": "https://github.com/Metaork2/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "f9f5a601-16ab-4e2a-b77d-1aca6aa4bf9b",
+    "authors": [
+        "Metaork2 - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/Metaork2/AMPTemplates.git",
+    "url": "https://github.com/Metaork2/AMPTemplates",
+    "imagefile": "",
+    "prefix": "Metaork2"
 }

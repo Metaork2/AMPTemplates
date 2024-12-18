@@ -1,0 +1,36 @@
+[
+    {
+        "DisplayName": "Web Port",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "web,port",
+        "FieldName": "WebPort",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "WebPort",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": true,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Game Port",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "game,port",
+        "FieldName": "GamePort",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "GamePort",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": true,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
